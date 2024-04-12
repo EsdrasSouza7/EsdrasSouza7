@@ -1,7 +1,8 @@
 ### Ola 👋
 
-#Meu Nome é Esdras
-E sou estudanete de Analise e Desenvolvimento de Sistemas
+Meu Nome é Esdras
+
+e sou estudanete de Analise e Desenvolvimento de Sistemas
 atualmente tenho uma bolsa de estudo 
 
 🌱 Eu atualmente estou tentando aprender java e aprimora o Python.
