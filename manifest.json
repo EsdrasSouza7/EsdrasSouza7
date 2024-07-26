@@ -1,0 +1,13 @@
+{
+    "name": "Portifolio Esdras",
+    "description": "Aplicativo que mostra o portifolio",
+    "start_url": "/",
+    "lang": "pt-BR",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "icon.jpg",
+        "type": "imagem/jpg"
+      }
+    ]
+}
