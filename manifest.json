@@ -5,10 +5,12 @@
     "start_url": "index.html",
     "scope": ".",
     "lang": "pt-BR",
+    "theme_color": "#ffffff",
     "display": "standalone",
     "icons": [
       {
-        "src": "icon.jpg",
+        "src": "/icon.jpg",
+        "sizes": "192/192",
         "type": "imagem/jpg"
       }
     ]
