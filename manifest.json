@@ -1,7 +1,9 @@
 {
     "name": "Portifolio Esdras",
+    "short_name": "Portifólio",
     "description": "Aplicativo que mostra o portifolio",
-    "start_url": "/",
+    "start_url": "index.html",
+    "scope": ".",
     "lang": "pt-BR",
     "display": "standalone",
     "icons": [
