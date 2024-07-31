@@ -6,11 +6,4 @@
     "scope": ".",
     "theme_color": "#ffffff",
     "display": "standalone",
-    "icons": [
-      {
-        "src": "images/icon.jpg",
-        "sizes": "192/192",
-        "type": "imagem/jpg"
-      }
-    ]
 }
