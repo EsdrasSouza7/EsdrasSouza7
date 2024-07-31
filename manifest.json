@@ -4,12 +4,11 @@
     "description": "Aplicativo que mostra o portifolio",
     "start_url": "index.html",
     "scope": ".",
-    "lang": "pt-BR",
     "theme_color": "#ffffff",
     "display": "standalone",
     "icons": [
       {
-        "src": "/icon.jpg",
+        "src": "images/icon.jpg",
         "sizes": "192/192",
         "type": "imagem/jpg"
       }
