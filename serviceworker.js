@@ -1,15 +1,16 @@
-var staticCacheName = "portifolio";
+var staticCacheName = "pwa_port";
 
 const filesToCache = [
 	'./index.html',
-	'./assets/',
-	'./images/'
+	'./assets/css/main.css',
+	'./assets/js/main.js',
+  	'./assets/',
+	'./images/',
 ];
  
 self.addEventListener("install", function (e) {
 	e.waitUntil(
 		caches.open(staticCacheName).then(function (cache) {
-			// return cache.addAll(["/"]);
 			console.log('ios');
 			return cache.addAll(filesToCache);
 		})
