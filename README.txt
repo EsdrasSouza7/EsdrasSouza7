@@ -1,1 +1,1 @@
-Sou formado de Analise e Desenvolvimento de Sistema, com um grande interesse em desenvolvimento mobile.
+Sou formado em Analise e Desenvolvimento de Sistema, com um grande interesse em desenvolvimento mobile.
